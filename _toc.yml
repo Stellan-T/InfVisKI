@@ -1,3 +1,5 @@
 format: jb-book
 root: index
-chapters: []
+chapters:
+- file: notebook1
+- file: notebook2
